@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _2DREPOCODE
+namespace _2DREPOCODE.Handlers
 {
-    internal class MoneyHandler
+    internal class CartHandler
     {
     }
 }

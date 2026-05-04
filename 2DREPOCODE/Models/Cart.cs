@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _2DREPOCODE
+namespace _2DREPOCODE.Models
 {
-    internal class MapHandler
+    internal class Cart
     {
     }
 }

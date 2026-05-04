@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _2DREPOCODE
+namespace _2DREPOCODE.Models
 {
-    internal class SQLHandler
+    internal class Monster
     {
     }
 }
